@@ -1,28 +1,19 @@
 
 .toppen {
-  height: 500px;
+  background-image: url("bilder/Wallpaper.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background position: center;
+  height; 500px;
   width: auto;
+  overflow: hidden;
+  text-align: center;
   border: 2px solid black;
   padding: 50px;
   margin-top: 10px;
   margin-left: 20px;
   margin-right: 20px;
-  display: flex;
-  align-items: center;
-  justify-content:center;
-}
-
-.toppen img {
-max-height: 500px;
-justify-self: center;
-z-index: -1;
-
-}
-
-.toppen h1 {
-  justify-self: center;
-   z-index: 1;
-   
+  
 }
 
 h1 { 
