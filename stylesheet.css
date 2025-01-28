@@ -4,7 +4,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background position: center;
-  height; 500px;
+  height: 500px;
   width: auto;
   overflow: hidden;
   text-align: center;
@@ -16,6 +16,10 @@
   
 }
 
+.toppen h1 {
+
+  
+}
 h1 { 
     color: black;
     font-size: 40pt;
