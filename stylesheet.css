@@ -210,6 +210,10 @@ border-radius: 10px;
     min-height: 300px;
    }
 
+   h1 { 
+    font-size: 50pt;
+
+  } 
     h3 {
       text-align: center;
 
