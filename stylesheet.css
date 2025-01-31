@@ -197,6 +197,16 @@ border-radius: 10px;
 
 
   @media (max-width: 630px) {
+    
+    h3 {
+      text-align: center;
+
+    }
+    .ingress {
+      justify-items: center;
+      justify-self: center;
+  
+    }
     h4 {
       text-align: center;
     }
