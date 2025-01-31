@@ -1,3 +1,10 @@
+html, body {
+  overflow: hidden;
+  text-wrap: wrap;
+  width: 100%;
+
+}
+
 @font-face {
   font-family: 'Roboto';
 src: url(/fonts/Roboto/Roboto-VariableFont_wdth\,wght.ttf);
@@ -56,6 +63,7 @@ h1 {
 
 
   .ingress {
+    display: flex;
     justify-items: center;
     justify-self: center;
     color: DarkSlateGray;
@@ -66,7 +74,7 @@ h1 {
     font-size: 14pt;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    width:85%;
+    width: 85%;
     margin-bottom: 40px;
   }
   
