@@ -63,7 +63,7 @@ h1 {
 
   .ingress {
     display: flex;
-    justify-items: center;
+    justify-content: center;
     justify-self: center;
     color: DarkSlateGray;
     width: 89%;
