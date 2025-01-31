@@ -255,9 +255,8 @@ border-radius: 10px;
     .container3 {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items:center;
-    padding: 50px 25px;
+    justify-content: left;
+    align-items:left;
     width: auto;
 
     }
