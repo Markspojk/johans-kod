@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'Roboto';
+src: url(/fonts/Roboto/Roboto-VariableFont_wdth\,wght.ttf);
+}
 
 .toppen {
   background-image: url("bilder/Wallpaper.jpg");
@@ -23,14 +27,16 @@
 h1 { 
     color: purple;
     font-size: 100pt;
-    font-family: "arial black";
+    font-family: "Roboto";
+    font-weight: bold;
 
   } 
   
   h3 {
     color:black;
     font-size: 25pt;
-    font-family: "arial black";
+    font-family: "Roboto";
+    font-weight: bold;
     text-align: center;
     margin-top: 75px;
   }
@@ -38,7 +44,8 @@ h1 {
   h4 {
     color:black;
     font-size: 20px;
-    font-family: "arial black";
+    font-family: "Roboto";
+    font-weight: bold;
     text-align: left;
     align-self: flex-start;
     justify-self: flex-start;
