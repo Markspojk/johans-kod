@@ -207,6 +207,12 @@ border-radius: 10px;
       justify-self: center;
   
     }
+
+    .ingress-text {
+      text-align: center;
+      margin-bottom: 40px;
+      
+    }
     h4 {
       text-align: center;
     }
